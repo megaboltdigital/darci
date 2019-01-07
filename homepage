@@ -1,0 +1,43 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "ProfessionalService",
+  "name": "darci hether new york, interior designer",
+  "image": "https://darcihether.com/wp-content/uploads/2017/10/darci-hether-interior-designer-logo@2x.png",
+  "@id": "https://darcihether.com/",
+  "url": "https://darcihether.com/",
+  "telephone": "(212) 568-0464",
+  "priceRange": "$$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "70 haven avenue, suite 4f",
+    "addressLocality": "New York",
+    "addressRegion": "NY",
+    "postalCode": "10032",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.84379560000001,
+    "longitude": -73.94297610000001
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "9:00",
+    "closes": "17:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/DarciHetherNewYork",
+    "https://www.houzz.com/pro/darcihether/darci-hether-new-york",
+    "https://www.pinterest.com/dlhether/",
+    "https://www.instagram.com/darcihether/?hl=en"
+  ]
+}
+</script>
